@@ -1,2 +1,2 @@
-console.log('clicksite');
-alert('clicksite');
+console.log('clicksite.org');
+alert('clicksite.org');
