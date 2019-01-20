@@ -1,6 +1,7 @@
-console.log('clicksite.ir');
-alert('clicksite.ir');
-
 function math(a,b){
 	return (a/b);
+}
+
+function myFunction(){
+	alert("hello world");
 }
