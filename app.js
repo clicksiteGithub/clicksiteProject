@@ -3,5 +3,5 @@ function math(a,b){
 }
 
 function myFunction(){
-	alert("hello world");
+	alert("clicksite");
 }
